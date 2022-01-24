@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/jason-day/static/css/main.073c9b0a.css",
+    "main.js": "/jason-day/static/js/main.4e04312c.js",
+    "static/js/787.c00ce531.chunk.js": "/jason-day/static/js/787.c00ce531.chunk.js",
+    "static/media/logo.svg": "/jason-day/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/jason-day/index.html",
+    "main.073c9b0a.css.map": "/jason-day/static/css/main.073c9b0a.css.map",
+    "main.4e04312c.js.map": "/jason-day/static/js/main.4e04312c.js.map",
+    "787.c00ce531.chunk.js.map": "/jason-day/static/js/787.c00ce531.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.073c9b0a.css",
+    "static/js/main.4e04312c.js"
+  ]
+}
