@@ -1,0 +1,22 @@
+#selfie {
+	height: 300px;
+	width: 230px;
+}
+
+#email {
+	font-style: normal;
+	font-family: "Gill Sans", "Gill Sans MT", Calibri, "Trebuchet MS",
+		sans-serif;
+	color: black;
+}
+
+#call {
+	font-style: normal;
+	font-family: "Gill Sans", "Gill Sans MT", Calibri, "Trebuchet MS",
+		sans-serif;
+	color: black;
+}
+
+#id {
+	background-color: aqua;
+}

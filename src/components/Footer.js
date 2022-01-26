@@ -2,7 +2,7 @@ import React from "react";
 
 const Footer = () => {
 	return (
-		<div className="footer">
+		<div className="footer" id="contacts">
 			<nav
 				class="navbar navbar-light bg-light mb-5"
 				id="contacts"
@@ -13,8 +13,10 @@ const Footer = () => {
 					</span>
 					<span class="navbar-brand  mb-0 h1">
 						<a href="tel:214.490.2721">
-							<i class="fas fa-phone">
-								{" "}
+							<i
+								class="fas fa-phone"
+								id="call"
+							>
 								Call:
 								214.490.2721
 							</i>
@@ -22,7 +24,10 @@ const Footer = () => {
 					</span>
 					<span class="navbar-brand mb-0 h1">
 						<a href="mailto: www.jason.day.blue@gmail.com">
-							<i class="fas fa-envelope">
+							<i
+								class="fas fa-envelope"
+								id="email"
+							>
 								Email:
 								jason.day.blue@gmail.com
 							</i>

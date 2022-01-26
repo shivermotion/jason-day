@@ -1,42 +1,45 @@
 import React from "react";
+import photo1 from "../assets/NoteTaker.png";
+import photo2 from "../assets/lookbook-mock.png";
+import photo3 from "../assets/work_day_scheduler_snapshot.png";
 
 export default function Home() {
 	return (
-		<div>
+		<div id="background" class="m-4">
 			<h1>Projects</h1>
 			<div class="container p-5" id="projects">
 				<figure class="figure">
-					<a href="https://github.com/SherlockTheHomie/Urban-Disco-Burrito">
+					<a href="https://github.com/shivermotion/ScribbleTake">
 						<img
-							src="assets/images/date-night-creator-snapshotv2.png"
+							src={photo1}
 							class="figure-img img-fluid rounded"
 							id="project"
 							alt="date date-night-creator-snapshotv2"
 						/>
 					</a>
 					<figcaption class="figure-caption">
-						Date Night Creator
+						NoteTaker
 					</figcaption>
 				</figure>
 
 				<figure class="figure">
 					<a href="https://shivermotion.github.io/work_day_scheduler/">
 						<img
-							src="assets/images/work_day_scheduler_snapshot.png"
+							src={photo3}
 							class="figure-img img-fluid rounded"
 							id="project"
 							alt="work day scheduler"
 						/>
 					</a>
 					<figcaption class="figure-caption">
-						Work Day Scheduler{" "}
+						Work Day Scheduler
 					</figcaption>
 				</figure>
 
 				<figure class="figure">
 					<a href="https://young-anchorage-47013.herokuapp.com/">
 						<img
-							src="assets/images/lookbook-mock.png"
+							src={photo2}
 							class="figure-img img-fluid rounded"
 							id="project"
 							alt="LookBook"
