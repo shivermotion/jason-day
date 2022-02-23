@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/jason-day/static/css/main.2955fdd4.css",
-    "main.js": "/jason-day/static/js/main.42655ac1.js",
+    "main.js": "/jason-day/static/js/main.a028665b.js",
     "static/js/787.c00ce531.chunk.js": "/jason-day/static/js/787.c00ce531.chunk.js",
     "static/media/work_day_scheduler_snapshot.png": "/jason-day/static/media/work_day_scheduler_snapshot.f1812443c6bc9a329629.png",
     "static/media/selfie.jpg": "/jason-day/static/media/selfie.c892aaab96cbeec4e81f.jpg",
@@ -9,11 +9,11 @@
     "static/media/NoteTaker.png": "/jason-day/static/media/NoteTaker.9fb4132b858027988b7e.png",
     "index.html": "/jason-day/index.html",
     "main.2955fdd4.css.map": "/jason-day/static/css/main.2955fdd4.css.map",
-    "main.42655ac1.js.map": "/jason-day/static/js/main.42655ac1.js.map",
+    "main.a028665b.js.map": "/jason-day/static/js/main.a028665b.js.map",
     "787.c00ce531.chunk.js.map": "/jason-day/static/js/787.c00ce531.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.2955fdd4.css",
-    "static/js/main.42655ac1.js"
+    "static/js/main.a028665b.js"
   ]
 }
